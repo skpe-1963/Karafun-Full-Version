@@ -240,4 +240,4 @@ This repository serves as the official landing page for Karafun. The software is
 **Get the most recent version of Karafun today!**
 
 ---
-**Last updated:** 2026-10-17 15:05:24 UTC
+**Last updated:** 2026-10-17 18:12:36 UTC
